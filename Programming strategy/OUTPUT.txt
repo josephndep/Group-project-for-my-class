@@ -1,0 +1,55 @@
+###############
+PART 1
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - Dor Week Business Days
+4 - For Weekend days
+0 - Exit
+1
+
+Enter a specific day [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]: 5
+Invalid Input
+
+Enter a specific day [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]: monday
+ENTER THE PRODUCT NUMBER FROM 1-5 OR 0 TO STOP: 5
+Enter quantity sold: 3
+ENTER THE PRODUCT NUMEBR FROM 1-5 OR 0 TO STOP: 1
+ENTER THE QUANTITY SOLD: 2
+ENTER THE PRODUCT NUMEBR FROM 1-5 OR 0 TO STOP: 0
+YOUR TOTAL PROFIT IS 395.37 YOU DID NOT REACH YOUR GOAL KEEP TRYING!
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - Dor Week Business Days
+4 - For Weekend days
+0 - Exit
+####################################################
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - Dor Week Business Days
+4 - For Weekend days
+0 - Exit
+2
+ENTER THE SALES DATA FOR EACH DAY OF THE WEEK
+[MONDAY] ENTER PRODUCT NUMBER FROM 1-5 OR 0 TO STOP: 2
+ENTER THE QUANTITY SOLD: 600
+[MONDAY] ENTER PRODUCT NUMBER FROM 1-5 OR 0 TO STOP: 0
+[TUESDAY] ENTER PRODUCT NUMBER FROM 1-5 OR 0 TO STOP: 0
+[WEDNESDAY] ENTER PRODUCT NUMBER FROM 1-5 OR 0 TO STOP: 0
+[THURSDAY] ENTER THE PRODUCT NUMBER FROM 1-5 OR 0 TO STOP: 0
+[FRIDAY] ENTER THE PRODUCT NUMBER FROM 1-5 OR 0 TO STOP: 0
+[SATURDAY] ENTER THE PRODUCT NUMEBR FROM 1-5 OR 0 TO STOP: 3
+[SATURDAY] ENTER THE QUANTITY SOLD: 600
+[SATURDAY] ENTER THE PRODUCT NUMEBR FROM 1-5 OR 0 TO STOP: 0
+[SUNDAY] ENTER THE PRODUCT NUMEBR FROM 1-5 OR 0 TO STOP: 0
+YOUR TOTAL PROFIT IS 105114.0 YOU DID GREAT THIS PERIOD!
+You can calculate the profit of the company according to a specific day or by a week or divide the week into weekdays and weekend
+Enter:
+1 - For specific Day
+2 - For the Week
+3 - Dor Week Business Days
+4 - For Weekend days
+0 - Exit
