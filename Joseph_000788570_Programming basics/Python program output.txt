@@ -1,0 +1,41 @@
+C:\MC216>c:/MC216/venv/Scripts/activate.bat
+
+(venv) C:\MC216>c:/MC216/venv/Scripts/python.exe c:/MC216/GCE(2).py
+Welcome to the Global bill calculator!
+     
+Enter account number: 123456
+Enter month: 2
+Enter your electricity plan (EFIR or ELFR):EFIR
+Enter the amount of electricity you used in month 2 (in KWh): 500
+Enter your gas plan (GFIR or GFLR): GFIR
+Enter the amount of gas you used in month 2 (in GJ): 700
+Enter the abbreviation for your province of residence (two letters): AB
+Thank you! Your amount due c$204.07
+
+C:\MC216>c:/MC216/venv/Scripts/activate.bat
+
+(venv) C:\MC216>c:/MC216/venv/Scripts/python.exe c:/MC216/GCE(2).py
+Welcome to the Global bill calculator!
+     
+Enter account number: 1234556
+Enter month: 4
+Enter your electricity plan (EFIR or ELFR):EFLR
+Enter the amount of electricity you used in month 4 (in KWh): 700
+Enter your gas plan (GFIR or GFLR): GFLR
+Enter the amount of gas you used in month 4 (in GJ): 650
+Enter the abbreviation for your province of residence (two letters): BC
+Thank you! Your amount due c$220.45
+
+C:\MC216>c:/MC216/venv/Scripts/activate.bat
+
+(venv) C:\MC216>c:/MC216/venv/Scripts/python.exe c:/MC216/GCE(2).py
+Welcome to the Global bill calculator!
+     
+Enter account number: 1245000
+Enter month: 6
+Enter your electricity plan (EFIR or ELFR):EFLR
+Enter the amount of electricity you used in month 6 (in KWh): 600
+Enter your gas plan (GFIR or GFLR): GFLR
+Enter the amount of gas you used in month 6 (in GJ): 800
+Enter the abbreviation for your province of residence (two letters): YT
+Thank you! Your amount due c$217.07
