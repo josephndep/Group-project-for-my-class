@@ -1,2 +1,2 @@
-# Group-project-for-my-class
+# Group-project
 Copyright restricted. I worked with my friend Jeshua and Justin 
